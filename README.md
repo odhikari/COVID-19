@@ -5,3 +5,5 @@ This app is build in ionic platform which provides the real data of pandemic cov
 API we are using: https://corona.lmao.ninja/docs/
 
 ![](Capture1.PNG)
+
+![](2.PNG)
